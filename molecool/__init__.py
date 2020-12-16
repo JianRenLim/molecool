@@ -4,7 +4,7 @@ molssi
 """
 
 # Add imports here
-from .molecool import *
+from .functions import *
 
 # Handle versioneer
 from ._version import get_versions
