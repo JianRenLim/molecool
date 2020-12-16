@@ -1,1 +1,10 @@
-1 i create this file again for second time!! git pull sucks!!
+***************************************
+this is start of testing.txt
+***************************************
+
+i added this file from new clone!!
+
+
+***************************************
+this is the end of testing.txt
+***************************************
